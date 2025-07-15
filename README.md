@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Berk Türk</h1>
+
 <h3 align="center">🎓 Software Engineering student | 📱 Mobile & Web Developer | 🤖 AI Enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bt811&label=Profile%20views&color=0e75b6&style=flat" alt="bt811" /> </p>
 
 - 📫 How to reach me **b.trk1@hotmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
