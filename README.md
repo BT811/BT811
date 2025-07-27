@@ -3,7 +3,7 @@
 
 <h3 align="center">🎓 Software Engineering student | 📱 Mobile & Web Developer | 🤖 AI Enthusiast</h3>
 
-- 🔭 I’m currently working on [Learn With Card](https://github.com/BT811/LearnWithCard)
+
 
 - 📫 How to reach me **b.trk1@hotmail.com**
 
