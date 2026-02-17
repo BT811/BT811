@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Berk Türk</h1>
 
-<h3 align="center">🎓 Software Engineering student | 📱 Mobile & Web Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🎓 Software Engineering student | 📱 Full-Stack | 🤖 AI Enthusiast</h3>
 
 - I'm trying to write reviews of the books I read, especially science fiction. You can find some of my Turkish reviews here: **https://1000kitap.com/Igfal/incelemeler** 
 
